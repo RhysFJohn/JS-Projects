@@ -6,7 +6,7 @@ The idea of this project is to have a button and when the button is clicked we w
 
 ## 2. Counter
 
-The idea of this project is to have 3 buttons called 'decrease', 'reset' and 'increase' and have the value change based on the button that is clicked
+The idea of this project is to have 3 buttons called 'decrease', 'reset' and 'increase' and have the value change based on the button that is clicked.
 
 ## 3. Reviews
 
