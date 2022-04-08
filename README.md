@@ -12,22 +12,22 @@ The idea of this project is to have a button and when the button is clicked we w
 
 ## 5. Sidebar
 
-## 6. Sidebar
+## 6. Modal
 
-## 7. Sidebar
+## 7. Questions
 
-## 8. Sidebar
+## 8. Menu
 
-## 9. Sidebar
+## 9. Video
 
-## 10. Sidebar
+## 10. Scroll
 
-## 11. Sidebar
+## 11. Tabs
 
-## 12. Sidebar
+## 12. Countdown
 
-## 13. Sidebar
+## 13. Lorem Ipsum
 
-## 14. Sidebar
+## 14. Grocery
 
-## 15. Sidebar
+## 15. Slider
